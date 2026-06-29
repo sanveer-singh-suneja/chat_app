@@ -200,9 +200,7 @@ chats/
 
 ---
 
-## Screenshots
 
-> Add screenshots here after running the app.
 
 ---
 
